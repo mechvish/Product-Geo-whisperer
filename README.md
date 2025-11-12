@@ -3,7 +3,7 @@ Geo Whisperer is a conceptual prototype designed to simplify geospatial workflow
 
 Product Demo - https://geo-whisperer-94.lovable.app/
 
-# Instead of navigating technical dashboards, users can simply ask — “Show me vessels near the Singapore Strait this week” — and watch the map update in real time.
+*Instead of navigating technical dashboards, users can simply ask — “Show me vessels near the Singapore Strait this week” — and watch the map update in real time.*
 
 ## Key Features
 
